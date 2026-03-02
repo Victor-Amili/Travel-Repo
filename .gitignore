@@ -1,0 +1,8 @@
+about.html
+images
+# *.txt
+
+# in*
+index[a-e].txt
+!img3.png
+!indexc.txt
